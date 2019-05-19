@@ -1,0 +1,12 @@
+﻿  Source.c
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(48): warning C4047: 'function': 'Nodeptr *' differs in levels of indirection from 'Nodeptr'
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(48): warning C4024: 'free_node': different types for formal and actual parameter 1
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(123): warning C4047: 'function': 'evoptr *' differs in levels of indirection from 'evoptr'
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(123): warning C4024: 'free_node_evo': different types for formal and actual parameter 1
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(152): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(162): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(218): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(265): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(37): warning C4716: 'push': must return a value
+c:\users\yakup\documents\github\infix-to-postfix-multiple-digit-c\source.c(108): warning C4716: 'push_evo': must return a value
+  comp217 assignment infix to postfiz.vcxproj -> C:\Users\yakup\Documents\GitHub\Infix-to-postfix-Multiple-Digit-C\Debug\comp217 assignment infix to postfiz.exe
